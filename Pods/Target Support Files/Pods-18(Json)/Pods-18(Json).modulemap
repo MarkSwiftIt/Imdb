@@ -1,0 +1,6 @@
+framework module Pods_18_Json_ {
+  umbrella header "Pods-18(Json)-umbrella.h"
+
+  export *
+  module * { export * }
+}
