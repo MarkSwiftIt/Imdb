@@ -1,15 +1,14 @@
 //
-//  TableViewController.swift
+//  ProgrammTableViewCell.swift
 //  18(Json)
 //
 //  Created by Mark Goncharov on 24.03.2022.
 //
 
-import Foundation
 import UIKit
 import SnapKit
 
-class TableViewCell: UITableViewCell {
+class ProgrammTableViewCell: UITableViewCell {
     
     static let identifier: String = "test identifier"
 
